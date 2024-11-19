@@ -1,0 +1,17 @@
+.navigation {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 0 8px;
+    height: 72px;
+    position: relative;
+ }
+ .navigation ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    font-weight: 600;
+  
+}
